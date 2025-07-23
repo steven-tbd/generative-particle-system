@@ -6,7 +6,7 @@ This project builds upon the foundational techniques of the [GLSL Vertex Displac
 
 This work was recognized and reposted by the official TouchDesigner Instagram account.
 
-![TouchDesigner Particle System Animation](particle-animation.gif)
+![TouchDesigner Particle System Animation](particle-animation-crop.gif)
 
 
 ## How It Works
